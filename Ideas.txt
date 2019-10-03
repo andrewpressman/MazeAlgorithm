@@ -1,0 +1,6 @@
+Option 1:
+Solve maze, adding directions to stack
+follow stack path again through maze but pop whenver the stack encounters itself
+
+Option 2:
+same as 1 but do everything in one loop
